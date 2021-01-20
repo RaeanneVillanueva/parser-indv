@@ -1,0 +1,6 @@
+E: S A ;
+S: I M ;
+I: num | H ;
+A: add S A | ;
+M: mult I M | ;
+H: bracket_left E bracket_right | paren_left E paren_right ;
