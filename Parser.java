@@ -93,7 +93,7 @@ public class Parser {
 
         if(currPtr >= input.size()){
           if(parserStack.isEmpty()){
-            setOutput("ACCEPT");
+            setOutput("trigger accept");
             return;
           }else {
             if(Character.isUpperCase(parserStack.peek().charAt(0))){
