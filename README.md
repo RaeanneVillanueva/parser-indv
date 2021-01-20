@@ -1,5 +1,5 @@
 
-## Parser Problem Set ### Raeanne Villanueva
+## Raeanne Villanueva - Parser Problem Set
 
 The code contains three java class: <br>
 1. Main.java 
